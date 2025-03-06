@@ -30,15 +30,15 @@ I enjoy building things and solving problems through code. I'm always eager to l
 
 #### Tech - Somewhat Experienced
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown)
+![Python](https://img.shields.io/badge/python-%3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PySide](https://img.shields.io/badge/PySide-0078D2?style=for-the-badge&logo=qt&logoColor=white) ![Plotly](https://img.shields.io/badge/plotly-%2319232D.svg?style=for-the-badge&logo=plotly&logoColor=%23F59E0B) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=matplotlib)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-%3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PySide](https://img.shields.io/badge/PySide-0078D2?style=for-the-badge&logo=qt&logoColor=white) ![Plotly](https://img.shields.io/badge/plotly-%2319232D.svg?style=for-the-badge&logo=plotly&logoColor=%23F59E0B) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=matplotlib)
-
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=C#&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -54,10 +54,10 @@ I enjoy building things and solving problems through code. I'm always eager to l
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br> <br>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br> <br>
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br> <br>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
