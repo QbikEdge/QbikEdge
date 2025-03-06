@@ -1,16 +1,16 @@
 <div class="centered" align="center">
 
-# Welcome!
+# 👋 Welcome
 
-Hi there! I'm Muaz, a passionate developer.  
+Hi there! I'm Muaz, a passionate developer. 💻  
 I am a life time student. Always learning new technologies and things. Welcome to my world!
 
-### My Philosophy
+### 🧠 My Philosophy
 
-Always try to make the best out of what you have.
+Always try to make the best out of what you have.  
 Never stop learning and always keep an eye on the future.
 
-### About Me
+### 🤓 About Me
 
 I enjoy building things and solving problems through code. I'm always eager to learn new technologies and collaborate on interesting projects.
 
@@ -18,17 +18,15 @@ I enjoy building things and solving problems through code. I'm always eager to l
 - Currently exploring New Technologies and building something useful for people around me.
 - Feel free to reach out to me if you have any questions or need help with anything.
 
-### Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/QbikEdge/count.svg)
-
-### Experiences
+### 🌟 Experiences
 
 <table align="center">
   <tr>
     <td align="center">
 
-#### Tech - Somewhat Experienced
+#### 🛠 Tech - Somewhat Experienced
+
+<br>
 
 ![Python](https://img.shields.io/badge/python-%3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PySide](https://img.shields.io/badge/PySide-0078D2?style=for-the-badge&logo=qt&logoColor=white) ![Plotly](https://img.shields.io/badge/plotly-%2319232D.svg?style=for-the-badge&logo=plotly&logoColor=%23F59E0B) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=matplotlib)
 
@@ -46,7 +44,7 @@ I enjoy building things and solving problems through code. I'm always eager to l
 
 </td> <td align="center">
 
-#### Tech - I'm also familiar with
+#### 🛠 Tech - I'm also familiar with
 
 ![Java](https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 <br> <br>
@@ -67,12 +65,55 @@ I enjoy building things and solving problems through code. I'm always eager to l
 </tr>
 </table>
 
-<!--       -->
-<!-- Stats -->
-<!--       -->
+### 📊 Visitors and Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QbikEdge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+<!-- ![Visitor Count](https://profile-counter.glitch.me/QbikEdge/count.svg) -->
+
+<div  style="display: flex; gap: 1em; align-items: center;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QbikEdge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QbikEdge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+### 👨‍🏫 Some of my Projects
+
+<details>  
+<summary>
+
+This is a project where I build a web application for a car service company with  
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://apspflege.github.io/car-info/).
+</summary><br><br>
+
+You can interact with a 3D model of a car.  
+You can inspect the car and find out information about the car service options available.  
+This is private Project there for i can not link to the source code but it is live so feel free to inspect it by clicking 🖱 on the image.
+
+[![aps_car_info_image](https://github.com/user-attachments/assets/256702bd-30f2-4fcd-af6b-82eb97baac13)](https://apspflege.github.io/car-info/)  
+</details>
+
+<br>
+
+<details style="display: flex; flex-wrap: wrap; gap: 1em;">  <summary>
+
+This is a project where I build a application to watch current stock market data with  
+
+[![PySide](https://img.shields.io/badge/PySide-0078D2?style=for-the-badge&logo=qt&logoColor=white)](https://github.com/QbikEdge/marketstack-plotter) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/QbikEdge/marketstack-plotter) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=matplotlib)](https://github.com/QbikEdge/marketstack-plotter).
+</summary><br><br>
+
+For more information you can visit the  
+
+[![GitHub](https://img.shields.io/badge/github_page-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QbikEdge/marketstack-plotter).  
+
+<div style="flex: 1; gap: 1em;">
+    <a href="https://github.com/QbikEdge/marketstack-plotter">
+        <img src="https://raw.githubusercontent.com/QbikEdge/marketstack-plotter/refs/heads/master/docs/screenshots/img.png" style="width: 40%;" alt="marketstack-plotter-image-1">
+        <img src="https://raw.githubusercontent.com/QbikEdge/marketstack-plotter/refs/heads/master/docs/screenshots/img_1.png" style="width: 40%;" alt="marketstack-plotter-image-2">
+    </a>
+</div>
+</details>
 
 <!-- ## You can help me by Donating
 
