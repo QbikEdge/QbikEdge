@@ -2,15 +2,15 @@
 
 # Welcome!
 
-Hi there! I'm Muaz, a passionate developer.
+Hi there! I'm Muaz, a passionate developer.  
 I am a life time student. Always learning new technologies and things. Welcome to my world!
 
-## My Philosophy
+### My Philosophy
 
 Always try to make the best out of what you have.
 Never stop learning and always keep an eye on the future.
 
-## About Me
+### About Me
 
 I enjoy building things and solving problems through code. I'm always eager to learn new technologies and collaborate on interesting projects.
 
@@ -18,17 +18,17 @@ I enjoy building things and solving problems through code. I'm always eager to l
 - Currently exploring New Technologies and building something useful for people around me.
 - Feel free to reach out to me if you have any questions or need help with anything.
 
-## Visitors
+### Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/QbikEdge/count.svg)
 
-## Experiences
+### Experiences
 
 <table align="center">
   <tr>
     <td align="center">
 
-### Tech - Somewhat Experienced
+#### Tech - Somewhat Experienced
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown)
 
@@ -46,7 +46,7 @@ I enjoy building things and solving problems through code. I'm always eager to l
 
 </td> <td align="center">
 
-### Tech - I'm also familiar with
+#### Tech - I'm also familiar with
 
 ![Java](https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 <br> <br>
@@ -66,8 +66,6 @@ I enjoy building things and solving problems through code. I'm always eager to l
 </td>
 </tr>
 </table>
-
----
 
 <!--       -->
 <!-- Stats -->
