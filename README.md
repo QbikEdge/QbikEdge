@@ -67,7 +67,7 @@ I enjoy building things and solving problems through code. I'm always eager to l
 
 ### 📊 Visitors and Stats
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/QbikEdge/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/QbikEdge/count.svg)
 
 <div  style="display: flex; gap: 1em; align-items: center;">
 
